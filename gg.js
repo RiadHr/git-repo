@@ -1,3 +1,4 @@
 alert("gg");
-var i=1;
 i++;
+console.log(Math.random*10);
+var test=5;
